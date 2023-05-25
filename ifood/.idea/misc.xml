@@ -10,8 +10,8 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/cadastro/pom.xml" />
         <option value="$PROJECT_DIR$/marketplace/pom.xml" />
+        <option value="$PROJECT_DIR$/cadastro/pom.xml" />
         <option value="$PROJECT_DIR$/pedido/pom.xml" />
       </list>
     </option>
